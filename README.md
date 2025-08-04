@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 Require an approval process for the entire site, or one locale, then push the site's content from "pre-production" to production on another host.
 
 "Doesn't [apostrophe-workflow](https://npmjs.org/package/apostrophe-workflow) cover this use case?"
